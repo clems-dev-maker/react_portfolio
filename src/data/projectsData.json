@@ -1,0 +1,40 @@
+
+[
+    {
+        "name": "Projet 1",
+        "description": "Application de recette de cuisine réalisée avec React à partir de l'api TheMealDB",
+        "link": "https://github.com/clems-dev-maker/recipes_app",
+        "technologies": ["React", "JavaScript", "CSS", "Bootstrap"],
+        "images": [
+            "images/recipe_home.png",
+            "images/recipe_detail_1.png",
+            "images/recipe_detail_2.png",
+            "images/recipe_detail_3.png",
+            "images/recipe_detail_4.png",
+            "images/recipe_fav.png"
+        ]
+    },
+    {
+        "name": "Projet 2",
+        "description": "Application de films réalisée avec React, à partir de l'api TheMovieDatabase",
+        "link": "https://github.com/clems-dev-maker/movies-app",
+        "technologies": ["React", "JavaScript", "CSS", "Bootstrap"],
+        "images": [
+            "images/movies_home.png",
+            "images/movie_detail.png",
+            "images/movie_fav.png"
+        ]
+    },
+    {
+        "name": "Projet 3",
+        "description": "Application boursière réalisée avec React, à partir de l'api AlphaVantage",
+        "link": "https://github.com/clems-dev-maker/stock-app",
+        "technologies": ["React", "JavaScript", "CSS", "Bootstrap"],
+        "images": [
+            "images/stock_home.png",
+            "images/stock_chart.png",
+            "images/stock_news.png"
+        ]
+    }
+]
+
