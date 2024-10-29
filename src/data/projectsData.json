@@ -35,6 +35,17 @@
             "images/stock_chart.png",
             "images/stock_news.png"
         ]
+    },
+    {
+        "name": "Projet 4",
+        "description": "Site ecommerce réalisée avec Django et Bootstrap",
+        "link": "https://github.com/clems-dev-maker/django_ecommerce",
+        "technologies": ["Django","HTML", "CSS", "Bootstrap"],
+        "images": [
+            "images/product_list_home.png",
+            "images/product_detail.png",
+            "images/cart_details.png"
+        ]
     }
 ]
 
